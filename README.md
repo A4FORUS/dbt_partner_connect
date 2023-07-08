@@ -1,0 +1,2 @@
+# dbt_partner_connect
+learn_DBT_Fundamentals
